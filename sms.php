@@ -1,14 +1,4 @@
 <?php
-// ini adalah tempat kita memilih file autoload// ini adalah tempat kita memilih file autoload// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
 // ini adalah tempat kita memilih file autoload
 require 'vendor/autoload.php';
 
