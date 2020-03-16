@@ -1,26 +1,5 @@
 <?php
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
-// ini adalah tempat kita memilih file autoload
+// putra tes
 require 'vendor/autoload.php';
 
 use SMSGatewayMe\Client\ApiClient;
