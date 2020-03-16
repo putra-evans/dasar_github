@@ -1,1 +1,40 @@
 
+github.
+repositori penyimpanan project
+download git download
+pilih folder dan bukak file yang akan di upload ke github
+setelah itu, klik kanan git bash here
+maka akan tampil cmd nya git
+ketik git init
+maka akan ada folder .git dalam project kita
+setelah itu di dalam cmd bash here masukan git add . 
+setelah berhasil maka ketikan git commit -m "first commit"
+jika pertama kali melakukan install git, maka first commit akan error
+sehingga kita harus memasukan user.email dan user.name di dalam git bash here
+setelah itu git remote add origin https://github.com/putra-inttech/dasar_github.git (berdasarkan dari file repository github)
+stelah git push -u origin master
+maka sukses, di file github anda akan terdapat file di upload tadi
+
+kalau ada perubahan pada code dan kita ingin melakukan update di github
+maka setelah merubah itu, lakukan git add . -> commit ->push
+
+di vscode
+kalau di vscode
+commit dulu baru di push
+
+di vscode via terminal
+lakukan cara yang sama pada bash here di terminal vscode
+
+untuk mendownload file github melalui git bash here
+
+git clone https://github.com/putra-inttech/dasar_github
+lakukan di dalam folder yang akan menempatkan hasil github
+
+setelah melakukan perubahan didalam file yang sudah di clone dengan teman 
+maka buatlah branch baru agar data yang master asli tidak berubah. 
+tujuan nya adalah agar file master tidak berubah
+setelah di rasa file sudah bisa di gabungkan dengan file master maka lakukan pull
+request pull di dalam folder.
+
+pull berguna untuk menarik file dari github ke vscode
+
