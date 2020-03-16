@@ -31,6 +31,10 @@ use SMSGatewayMe\Client\Model\SendMessageRequest;
 
 // ini adalah tempat kita memilih file autoload 2
 // ini adalah tempat kita memilih file autoload 2
+
+
+// ini adalah tempat kita memilih file autoload 3
+// ini adalah tempat kita memilih file autoload 3
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
   $array_fields['phone_number'] = $_POST['nohp']; // set nohp
